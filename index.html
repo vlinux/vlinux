@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>北青文档库</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+</head>
+<body>
+  <nav>
+    <a href="https://video.kococ.cn">博客</a>
+    <a href="https://mm.kococ.cn">图站</a>
+    <a href="https://video.kococ.cn">影院</a>
+    <a href="https://www.kococ.cn/about.html">关于</a>
+  </nav>
+  <div id="app"></div>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      repo: 'https://github.com/vlinux',
+      onlyCover: false,
+      maxLevel: 4,
+      loadSidebar: true,
+      subMaxLevel: 2,
+      alias: {
+      '/.*/_sidebar.md': '/_sidebar.md'
+              },
+    search: 'auto', // 默认值
+    
+      coverpage: true
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+</body>
+</html>
