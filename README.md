@@ -1,10 +1,8 @@
-[xOS](https://github.com/xOS/xOS)/README.md
+[vlinux](https://github.com/vlinux/vlinux)/README.md
 
-### 大家好, 我是[翠花](https://www.nange.cn/)！
+### 大家好, 我是[北青](https://www.kococ.cn/)！
 
 ------
-
-[![佩佩 | 新浪微博](https://github.com/XOS/XOS/raw/master/icon/weibo.svg)](http://weibo.com/234610510)[![眼儿媚 | Instagram](https://github.com/XOS/XOS/raw/master/icon/Instagram.svg)](https://www.instagram.com/nange.cn/)[![眼儿媚 | Twitter](https://github.com/XOS/XOS/raw/master/icon/Twitter.svg)](https://twitter.com/PeinanXu)[![眼儿媚 | Telegram Channel](https://github.com/XOS/XOS/raw/master/icon/Telegram.svg)](https://t.me/VMGirls)
 
 
 
