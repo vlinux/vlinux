@@ -1,4 +1,4 @@
-**Hi  I'm here！， ** **I'm Thanos :wave:**
+**Hi  I'm here！,** **I'm Thanos :wave:**
 
 - 🔭 I’m currently working on Shanghai, China
 - 🌱 I’m currently learning golang,Prometheus,kuberentes
@@ -11,9 +11,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vlinux)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlinux&repo=Kube-Prometheus)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlinux&repo=img-api)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlinux&repo=Kube-Prometheus)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlinux&repo=img-api)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlinux&repo=ansible-install-telegraf)](https://github.com/anuraghazra/github-readme-stats)
 
