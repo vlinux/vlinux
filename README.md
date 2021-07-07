@@ -7,7 +7,7 @@
 
 | 公众号     | 基金                                    | 博客                              | 勇士                                  |
 | ---------- | --------------------------------------- | --------------------------------- | ------------------------------------- |
-| 大头妙妙屋 | [点我](https://www.kococ.cn/about.html) | [北青永恒](https://www.kococ.cn/) | [冲！！！](https://img-api.kococ.cn/) |
+| 大头妙妙屋 | [点我](https://www.kococ.cn/about.html) | [北青永恒](https://www.vlinux.cn/) | [冲！！！](https://img-api.kococ.cn/) |
 --------------------------
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vlinux)](https://github.com/anuraghazra/github-readme-stats)
 -----------------------
