@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Shanghai, China
 - 🌱 I’m currently learning golang,Prometheus,kuberentes
 - 💬 Ask me about :Centos,ansible,shell,regex,sed,awk,grep,go,docker,kubernetes,Prometheus
-- 📫 How to reach me: [ilinux@88.com](mailto:ilinux@88.com) or at my [blog](https://www.kococ.cn/)
+- 📫 How to reach me: [ilinux@88.com](mailto:ilinux@88.com) or at my [blog](https://www.vlinux.cn/)
 
 | 来点广告                                                     | 来点颜色                      | 博客                               |
 | ------------------------------------------------------------ | ----------------------------- | ---------------------------------- |
