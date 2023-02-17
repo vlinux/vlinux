@@ -5,9 +5,12 @@
 - 💬 Ask me about :Centos,ansible,shell,regex,sed,awk,grep,go,docker,kubernetes,Prometheus
 - 📫 How to reach me: [ilinux@88.com](mailto:ilinux@88.com) or at my [blog](https://www.kococ.cn/)
 
-| 公众号     | 基金                                    | 博客                              | 勇士                                  |
-| ---------- | --------------------------------------- | --------------------------------- | ------------------------------------- |
-|惠多多省钱 | [点我](https://www.vlinux.cn/about.html) | [北青永恒](https://www.vlinux.cn/) | [冲！！！](https://img-api.bococ.cn/) |
+| 来点广告                                                     | 来点颜色                      | 博客                               |
+| ------------------------------------------------------------ | ----------------------------- | ---------------------------------- |
+| [低价话费电费](https://cos.vlinux.cn/www-vlinux-cn-blog-img/WechatIMG18.jpeg) | [来就来](https://www.sex.com) | [运维之境](https://www.vlinux.cn/) |
+
 --------------------------
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vlinux)](https://github.com/anuraghazra/github-readme-stats)
 -----------------------
