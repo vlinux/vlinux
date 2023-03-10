@@ -7,7 +7,7 @@
 
 | 来点广告                                                     | 来点颜色                      | 博客                               |
 | ------------------------------------------------------------ | ----------------------------- | ---------------------------------- |
-| [低价话费电费](https://cos.vlinux.cn/www-vlinux-cn-blog-img/WechatIMG18.jpeg) | [来就来](https://www.sex.com) | [运维之境](https://www.vlinux.cn/) |
+| [低价话费电费](https://cos.vlinux.cn/www-vlinux-cn-blog-img/WechatIMG18.jpeg) | [来就来](https://www.xfsr.xyz) | [运维之境](https://www.vlinux.cn/) |
 
 --------------------------
 
